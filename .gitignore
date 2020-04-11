@@ -1,1 +1,2 @@
-.vscode
+# Ignore the objects in this folder
+*.vscode
